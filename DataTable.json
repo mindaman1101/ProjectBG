@@ -1,0 +1,72 @@
+﻿[
+  {
+    "Name": "item_01",
+    "ItemName": "불의 검",
+    "desc": "공격력 +10 증가",
+    "tier": "Epic",
+    "icon": "🔥"
+  },
+  {
+    "Name": "item_02",
+    "ItemName": "바람의 신발",
+    "desc": "이동속도 +15% 증가",
+    "tier": "Rare",
+    "icon": "👟"
+  },
+  {
+    "Name": "item_03",
+    "ItemName": "강철 방패",
+    "desc": "방어력 +20 증가",
+    "tier": "Normal",
+    "icon": "🛡️"
+  },
+  {
+    "Name": "item_04",
+    "ItemName": "독 화살",
+    "desc": "초당 5의 지속 피해",
+    "tier": "Normal",
+    "icon": "🏹"
+  },
+  {
+    "Name": "item_05",
+    "ItemName": "치유의 물약",
+    "desc": "사용 시 체력 50 회복",
+    "tier": "Normal",
+    "icon": "🧪"
+  },
+  {
+    "Name": "item_06",
+    "ItemName": "마법 지팡이",
+    "desc": "마력 +30 증가",
+    "tier": "Rare",
+    "icon": "🪄"
+  },
+  {
+    "Name": "item_07",
+    "ItemName": "저주받은 반지",
+    "desc": "공격력 증가, 방어력 감소",
+    "tier": "Legendary",
+    "icon": "💍"
+  },
+  {
+    "Name": "item_08",
+    "ItemName": "황금 동전",
+    "desc": "획득 골드 +10%",
+    "tier": "Normal",
+    "icon": "🪙"
+  },
+  {
+    "Name": "item_09",
+    "ItemName": "얼음 수정",
+    "desc": "타격 시 적 둔화",
+    "tier": "Epic",
+    "icon": "❄️"
+  },
+  {
+    "Name": "item_10",
+    "ItemName": "그림자 망토",
+    "desc": "회피율 +10% 증가",
+    "tier": "Legendary",
+    "icon": "🧥"
+  }
+] 
